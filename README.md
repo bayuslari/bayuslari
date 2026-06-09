@@ -37,37 +37,37 @@ const bayu: Developer = {
 
 <table width="100%">
   <tr>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/><sub>React</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/><br/><sub>Next.js</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/><br/><sub>TypeScript</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br/><sub>Node.js</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/><sub>HTML5</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/><sub>CSS3</sub></td>
-    <td align="center" width="11%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/><sub>Tailwind</sub></td>
-    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/><br/><sub>SASS</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br/><sub>React</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="11%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="11%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55"/><br/><sub>SASS</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="45"/><br/><sub>Figma</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/framer/000000" width="45"/><br/><sub>Framer</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/greensock/88CE02" width="45"/><br/><sub>GSAP</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/><br/><sub>GraphQL</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/><br/><sub>Supabase</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/shopify/96BF48" width="45"/><br/><sub>Shopify</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/prismic/5163BA" width="45"/><br/><sub>Prismic</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/contentful/2478CC" width="45"/><br/><sub>Headless CMS</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="55"/><br/><sub>Figma</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/framer/000000" width="55"/><br/><sub>Framer</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/greensock/88CE02" width="55"/><br/><sub>GSAP</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="55"/><br/><sub>GraphQL</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55"/><br/><sub>Supabase</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/shopify/96BF48" width="55"/><br/><sub>Shopify</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/prismic/5163BA" width="55"/><br/><sub>Prismic</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/contentful/2478CC" width="55"/><br/><sub>Headless CMS</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/000000" width="45"/><br/><sub>OpenAI</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="45"/><br/><sub>Claude</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="45"/><br/><sub>Vercel</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br/><sub>AWS</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/><br/><sub>Jest</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/cypress/17202C" width="45"/><br/><sub>Cypress</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/><sub>React Native</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="45"/><br/><sub>WordPress</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="55"/><br/><sub>OpenAI</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" width="55"/><br/><sub>Claude</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="55"/><br/><sub>Vercel</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/><br/><sub>AWS</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="55"/><br/><sub>Jest</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cypress/17202C" width="55"/><br/><sub>Cypress</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br/><sub>React Native</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="55"/><br/><sub>WordPress</sub></td>
   </tr>
 </table>
 
