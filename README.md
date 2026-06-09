@@ -82,14 +82,6 @@ const bayu: Developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8" />
-  </picture>
-
-  <br/>
-
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&hide_border=true" />
