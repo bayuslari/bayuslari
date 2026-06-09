@@ -82,9 +82,9 @@ const bayu: Developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuslari&layout=compact&hide_border=true&langs_count=8" />
   </picture>
 
   <br/>
