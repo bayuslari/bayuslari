@@ -78,14 +78,41 @@ const bayu: Developer = {
 
 ---
 
+## `src/pages/OnMyRadar.tsx`
+
+<table align="center">
+  <tr>
+    <td>⚡ AI-Powered UIs & LLM Integration</td>
+    <td>🎨 Design Systems & Tokens</td>
+    <td>🚀 Core Web Vitals & Performance</td>
+  </tr>
+  <tr>
+    <td>📱 PWA & Mobile-First Architecture</td>
+    <td>🛒 Headless Commerce & CMS</td>
+    <td>🌐 Edge & Serverless Rendering</td>
+  </tr>
+  <tr>
+    <td>🔷 TypeScript Patterns & DX</td>
+    <td>🧪 E2E Testing & Automation</td>
+    <td>♿ Accessibility & Inclusive Design</td>
+  </tr>
+</table>
+
+---
+
 ## `src/pages/Stats.tsx`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&hide_border=true" />
-  </picture>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stat-lemon.vercel.app/api?username=bayuslari&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
