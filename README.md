@@ -82,11 +82,13 @@ const bayu: Developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bayuslari&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bayuslari&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bayuslari&hide_border=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bayuslari&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8" />
   </picture>
-  &nbsp;
+
+  <br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bayuslari&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
